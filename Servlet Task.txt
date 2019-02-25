@@ -1,0 +1,7 @@
+Servlet
+
+1)Arithemetic operations
+2)Authentication
+3)get ParameterValues()
+4)getParameterNames()
+5)getHeaderNames()
