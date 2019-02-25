@@ -1,0 +1,12 @@
+servlet context listener
+---------------------------------------------------------------------
+1)add jar file in lib
+2)<context-param>
+driver name
+url
+password
+3)contextInitialized
+contextDestroyed
+4)get all parameters
+5)establish connection
+6)store connection object in attribute of ServletContext
